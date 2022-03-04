@@ -1,0 +1,136 @@
+body {
+  margin: 0;
+  color: #40514E;
+  font-family: 'Heebo', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #66BFBF;
+font-family: 'Heebo', sans-serif;
+font-weight: normal;
+padding-bottom: 100px;
+}
+
+h3{
+color: #11999E;
+font-family: 'Heebo', sans-serif;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.conatct-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.intro{
+  width: 30%;
+  margin-left:460px;
+}
+.top-container{
+  background-color: #E4F9F5;
+  text-align: center;
+  padding-top: 100px;
+  position: relative;
+}
+.middle-container {
+  margin: 100px 0;
+font-family: 'Heebo', sans-serif;
+}
+
+.bottom-container {
+font-family: 'Heebo', sans-serif;
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+a{
+  color: #11999E;
+  font-family: 'Heebo', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+bottom: 300px;
+left: 300px;
+}
+
+.pro{
+  font-size: 2.5rem;
+}
+
+a{
+  color: #11999E;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.code-img{
+  width: 25%;
+  float: left;
+  margin-left: 30px;
+}
+
+.chilli-img{
+  width: 25%;
+  float: right;
+  margin-right: 40px;
+}
+
+.contact-me{
+border-radius: 8;
+
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 1px 1px 3px #3ab9c2;
+  font-family: Arial;
+  color: #f2ffff;
+  font-size: 17px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.sigi{
+  border-radius: 50%;
+}
+.btn:hover {
+  background: #19a1a6;
+  text-decoration: none;
+}
